@@ -1,0 +1,3 @@
+Flask==2.0.1 #We need to install Flask so, we will have to add Flask
+gunicorn==20.1.0 #Gunicorn is a popular WSGI (Web Server Gateway Interface) HTTP server for running Python web applications, including Flask apps. 
+Werkzeug==2.0.2 #Werkzeug is a utility library for WSGI applications, and it's often used in Flask web applications. 
